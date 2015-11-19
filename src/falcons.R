@@ -61,5 +61,3 @@ print(results)
 plot(falcons ~ day, type="l", col="gold", data=results)
 lines(mice ~ day, col="blue", data=results)
 
-
-
